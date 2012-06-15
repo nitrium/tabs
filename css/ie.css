@@ -1,0 +1,12 @@
+#tabs_wrapper #tabs_block_wrapper #tabs_block
+{
+}
+
+#tabs_wrapper #tabs_block_wrapper #tabs_block img
+{
+}
+
+#tabs_wrapper #tabs_block.calibracoes, #tabs_wrapper #tabs_block.ensaios, #tabs_wrapper #tabs_block.orcamentos, #tabs_wrapper #tabs_block.servicos
+{
+	/*display: none;*/
+}
